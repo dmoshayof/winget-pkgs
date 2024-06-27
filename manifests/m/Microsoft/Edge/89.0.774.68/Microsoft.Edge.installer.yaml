@@ -19,18 +19,6 @@ Installers:
   Scope: machine
   InstallerLocale: en-US
   ProductCode: "{99BBB765-AF90-3970-A395-239943FB9AF8}"
-- Architecture: arm64
-  InstallerUrl: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/55830c2b-1cc8-4d83-b47e-7fa031e5e8bc/MicrosoftEdgeEnterpriseARM64.msi
-  InstallerSha256: CAD85A692A7BDFB630D4A57F569CE987874EA1FE7ADE2E0C4775223CC3DA7027
-  Scope: machine
-  InstallerLocale: en-US
-  ProductCode: "{EFFEC7DE-BA42-3EFD-92E8-C82AFFE0C77F}"
-- Architecture: x86
-  InstallerUrl: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f61201c-c76f-4424-adb1-781fb1e0983f/MicrosoftEdgeEnterpriseX86.msi
-  InstallerSha256: C1E74A2F73F6B98663B48AE788DE4776D808A8E3BEC451161C306B073FD7DC88
-  Scope: machine
-  InstallerLocale: en-US
-  ProductCode: "{C5996100-389E-3BAE-85B1-367A967B06B1}"
 ManifestType: installer
 ManifestVersion: 1.0.0
 
